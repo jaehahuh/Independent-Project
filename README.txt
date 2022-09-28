@@ -6,4 +6,3 @@ Program language : Python (Jupyter Notebook App)
 
 Jupyter Notebook libraries that I installed during the project :
 - Scikit-learn, Pandas, Numpy, Matplotlib, XGBoost 
-
