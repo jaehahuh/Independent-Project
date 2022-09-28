@@ -4,9 +4,9 @@
 
 ### Author : Jaeha Huh
 
-Program language : Python 
+Program language : Python (jupyter Notebook)
 
-Jupiter Notebook libraries that I installed during the project :
+Jupyter Notebook libraries that I installed during the project :
 - Scikit-learn, Pandas, Numpy, Matplotlib, XGBoost 
 
 
