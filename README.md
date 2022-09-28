@@ -18,7 +18,7 @@ The dataset has a total of 81 columns, including street, house size, building ty
 house condition, number of toilets, and other factors used to evaluate the house
 
 
-**3.Machine learning models**
+**3. Machine learning models**
 
 Models applied to supervised learning tested a total of three models: MLP 
 Regressor, Ridge Regressor, and XGB Register. After testing normalized and unnormalized 
