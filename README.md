@@ -28,6 +28,6 @@ data, proceed with a model that can achieve better results.
 
 
 Jupyter Notebook libraries that I installed during the project :
-- Scikit-learn, Pandas, Numpy, Matplotlib
+- Scikit-learn, Pandas, Numpy, Matplotlib, XGBoost 
 
 
