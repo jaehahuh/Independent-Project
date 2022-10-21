@@ -1,6 +1,6 @@
 # Topic : Independent Machine learning Project 
 
-## Supervised learning: Predicting the price of a house price
+## Supervised learning Algorithm: Predicting the price of a house price
 
 ### Author : Jaeha Huh
 
