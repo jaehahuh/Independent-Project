@@ -1,4 +1,4 @@
-Topic : Machine learning Project (Supervised learning: Predicting the price of a house price)
+Topic : Machine learning Project (Supervised learning: Predicting house prices)
 
 Author : Jaeha Huh
 
